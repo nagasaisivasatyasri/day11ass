@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+li:first-of-type {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+<ul>
+<li>list1</li>
+<li>list2</li>
+<li>list3</li>
+</ul>
+<ul>
+<li>list4</li>
+<li>list5</li>
+<li>list6</li>
+</ul>
+
+</body>
+</html>
