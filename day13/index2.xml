@@ -1,0 +1,40 @@
+<log4j:event logger="day13.Simple" timestamp="1612162460574" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Completed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612162460595" level="ERROR" thread="main">
+<log4j:message><![CDATA[Exception occured]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612162460596" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Exception resolved]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612162460599" level="FATAL" thread="main">
+<log4j:message><![CDATA[addition is completed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612162460599" level="INFO" thread="main">
+<log4j:message><![CDATA[Subtraction is completed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612164922842" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Completed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612164922899" level="ERROR" thread="main">
+<log4j:message><![CDATA[Exception occured]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612164922901" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Exception resolved]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612164922902" level="DEBUG" thread="main">
+<log4j:message><![CDATA[addition is completed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="day13.Simple" timestamp="1612164922902" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Subtraction is completed]]></log4j:message>
+</log4j:event>
+

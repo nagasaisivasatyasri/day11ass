@@ -1,0 +1,15 @@
+{ day13.Simple }  08-01-2021 Completed 
+{ day13.Simple }  08-01-2021 Exception occured 
+{ day13.Simple }  08-01-2021 Exception resolved 
+{ day13.Simple }  08-01-2021 addition is completed 
+{ day13.Simple }  08-01-2021 Subtraction is completed 
+{ day13.Simple }  2021-02-32 Completed 
+{ day13.Simple }  2021-02-32 Exception occured 
+{ day13.Simple }  2021-02-32 Exception resolved 
+{ day13.Simple }  2021-02-32 addition is completed 
+{ day13.Simple }  2021-02-32 Subtraction is completed 
+{ day13.Simple }  2021-02-01 Completed 
+{ day13.Simple }  2021-02-01 Exception occured 
+{ day13.Simple }  2021-02-01 Exception resolved 
+{ day13.Simple }  2021-02-01 addition is completed 
+{ day13.Simple }  2021-02-01 Subtraction is completed 

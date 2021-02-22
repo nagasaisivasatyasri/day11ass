@@ -1,0 +1,30 @@
+{ day13.Simple }  2021-01-02 Completed 
+{ day13.Simple }  2021-01-02 Exception occured 
+{ day13.Simple }  2021-01-02 Exception resolved 
+{ day13.Simple }  2021-01-02 addition is completed 
+{ day13.Simple }  2021-01-02 Subtraction is completed 
+{ day13.Simple }  2021-01-02 Completed 
+{ day13.Simple }  2021-01-02 Exception occured 
+{ day13.Simple }  2021-01-02 Exception resolved 
+{ day13.Simple }  2021-01-02 addition is completed 
+{ day13.Simple }  2021-01-02 Subtraction is completed 
+{ day13.Simple }  2021-01-02 Completed 
+{ day13.Simple }  2021-01-02 Exception occured 
+{ day13.Simple }  2021-01-02 Exception resolved 
+{ day13.Simple }  2021-01-02 addition is completed 
+{ day13.Simple }  2021-01-02 Subtraction is completed 
+{ day13.Simple }  2021-01-02 Completed 
+{ day13.Simple }  2021-01-02 Exception occured 
+{ day13.Simple }  2021-01-02 Exception resolved 
+{ day13.Simple }  2021-01-02 addition is completed 
+{ day13.Simple }  2021-01-02 Subtraction is completed 
+{ day13.Simple }  2021-01-02 Completed 
+{ day13.Simple }  2021-01-02 Exception occured 
+{ day13.Simple }  2021-01-02 Exception resolved 
+{ day13.Simple }  2021-01-02 addition is completed 
+{ day13.Simple }  2021-01-02 Subtraction is completed 
+{ day13.Simple }  2021-01-02 Completed 
+{ day13.Simple }  2021-01-02 Exception occured 
+{ day13.Simple }  2021-01-02 Exception resolved 
+{ day13.Simple }  2021-01-02 addition is completed 
+{ day13.Simple }  2021-01-02 Subtraction is completed 
