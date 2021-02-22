@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:books xmlns:xi="http://www.w3.org/2001/XMLSchema-instance" xmlns:b="http://www.bookinfo.com" xi:schemaLocation="http://www.bookinfo.com bookminmaxxsd.xsd">
+	<book>
+		<bid>678</bid>
+		<name>Secret wrld </name>
+		<author>devi</author>
+		<publisher>devipublisher</publisher>
+	</book>
+	<book>
+		<bid>789</bid>
+		<name>Secret </name>
+		<author>gowri</author>
+		<publisher>gowri publisher</publisher>
+	</book>
+	
+</b:books>

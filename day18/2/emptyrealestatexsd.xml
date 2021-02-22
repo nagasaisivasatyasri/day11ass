@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<realestate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://realestateinfo.com" xsi:schemaLocation="http://realestateinfo.com 1.xsd">
+	<agencies>
+		<aname>sugandha</aname>
+		<email>sugandha@agency.com</email>
+		<mob>5656556</mob>
+	</agencies>
+	<owner>
+		<oname>saibaba</oname>
+	</owner>
+	<properties>
+		<pname>land</pname>
+		<noofflats>56</noofflats>
+	</properties>
+	<flats>
+		<fname>34-90</fname>
+		<description>5 cent</description>
+		<rate>5000000</rate>
+	</flats>
+</realestate>

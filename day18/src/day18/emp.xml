@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://empinfo.com" xsi:schemaLocation="http://empinfo.com emp.xsd" >
+	<emp>
+		<mobno>34566 56565</mobno>
+	</emp>
+</employee>

@@ -1,0 +1,12 @@
+<?xml version="1.0"  ?>
+<b:books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:b="http://www.booksinfo.com"  xsi:SchemaLocation="http://www.booksinfo.com  books.xsd">
+
+	<book>
+	<bookid>765</bookid>
+
+	<author>sundar</author>
+	<bname>piece of world</bname>
+	<publisher>sukanya</publisher>
+	
+	</book>
+</b:books>

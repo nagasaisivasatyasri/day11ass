@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<xsd:schema elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://realestateinfo.com">
+<xsd:element name="realestate">
+<xsd:complexType>
+	<xsd:sequence>
+		<xsd:element name="agencies">
+			<xsd:complexType>
+				<xsd:sequence>
+					<xsd:element name="aname" type="xsd:string"></xsd:element>
+					<xsd:element name="email" type="xsd:string"></xsd:element>
+					<xsd:element name="mob"  type="xsd:long"></xsd:element>
+				</xsd:sequence>
+			</xsd:complexType>
+		</xsd:element>
+		<xsd:element name="owner">
+			<xsd:complexType>
+				<xsd:sequence>
+					<xsd:element name="oname" type="xsd:string"></xsd:element>
+				</xsd:sequence>
+			</xsd:complexType>
+		</xsd:element>
+		<xsd:element name="properties">
+			<xsd:complexType>
+				<xsd:sequence>
+					<xsd:element name="pname" type="xsd:string"></xsd:element>
+					<xsd:element name="noofflats" type="xsd:int"></xsd:element>
+				</xsd:sequence>
+				</xsd:complexType>
+		</xsd:element>
+		<xsd:element name="flats">
+			<xsd:complexType>
+				<xsd:sequence>
+				<xsd:element name="fname" type="xsd:string"></xsd:element>
+				<xsd:element name="description" type="xsd:string"></xsd:element>
+				<xsd:element name="rate" type="xsd:double"></xsd:element>
+			</xsd:sequence>
+					</xsd:complexType>
+		</xsd:element>
+	</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+

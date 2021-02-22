@@ -1,0 +1,14 @@
+<!ELEMENT realestate (agencies,owner,properties,flats)*>
+<!ELEMENT agencies (aname,email,mob)>
+<!ELEMENT owner (oname)>
+<!ELEMENT properties (pname,noofflats)>
+<!ELEMENT flats (fname,description,rate)>
+<!ELEMENT aname (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT mob (#PCDATA)>
+<!ELEMENT oname (#PCDATA)>
+<!ELEMENT pname (#PCDATA)>
+<!ELEMENT noofflats (#PCDATA)>
+<!ELEMENT fname (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT rate (#PCDATA)>

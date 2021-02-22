@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!DOCTYPE realestate SYSTEM "emptyrealestate.dtd">
+<realestate>
+	<agencies>
+		<aname>sughandha</aname>
+		<email>sughandha@agency.com</email>
+		<mob>56566</mob>
+	</agencies>
+	<owner>
+		<oname>saibaba</oname>
+	</owner>
+	<properties>
+		<pname>land</pname>
+		<noofflats>5</noofflats>
+	</properties>
+	<flats>
+		<fname>34-90</fname>
+		<description>5 cents</description>
+		<rate>4000000</rate>
+	</flats>
+</realestate>
