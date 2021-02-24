@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<!-- class name is the fully qualified name of the POJO class -->
+	<!-- table is the name of the database table which represents the Student -->
+	<class name="com.src.model.Customer" table="customer1" discriminator-value="customer">
+		<!-- Attribute id is mapped to the column student_id -->
+		<id name="id" type="integer">
+			<column name="custid" />
+			<generator class="increment"></generator>
+		</id>
+	<discriminator column="objectname"></discriminator>
+		<!-- Attribute name is mapped to the column student_name -->
+		<property name="name" type="string">
+		<column name="name" length="20"  />
+		</property>
+		<!-- Attribute age is mapped to the column "student_age" -->
+	<subclass name="com.src.model.PermAddress"  discriminator-value="padd">
+	<property name="address" type="string">
+	<column name="permaddress"></column>
+	</property>
+	</subclass>	
+	
+	<subclass name="com.src.model.TempAddress"  discriminator-value="tempadd">
+	<property name="tempAdd" type="string">
+	<column name="temporaryAddress"></column>
+	</property>
+		</subclass>
+	
+			</class>
+</hibernate-mapping>
