@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<!-- class name is the fully qualified name of the POJO class -->
+	<!-- table is the name of the database table which represents the Student -->
+	<class name="com.src.model.User" table="user2" >
+		<!-- Attribute id is mapped to the column student_id -->
+		<id name="uid" type="integer">
+			<column name="UserId" />
+			<generator class="increment"></generator>
+		</id>
+		<!-- Attribute name is mapped to the column student_name -->
+		<property name="username" type="string">
+		<column name="username"  />
+		</property>	
+			<list name="products" cascade="all" table="user_productdb"><key column="uid"></key>
+		<index column="type"></index>
+		<many-to-many class="com.src.model.Product" column="key"></many-to-many>
+		</list>
+	</class>
+		
+</hibernate-mapping>
